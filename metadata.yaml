@@ -1,0 +1,32 @@
+_repo: The-boys-of-Columbia-High-on-the-diamond-b-or-Winning-out-by-pluck_75400
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Forbes, Graham B.
+    gutenberg_agent_id: '2243'
+    url: http://www.gutenberg.org/2009/agents/2243
+description: ''
+gutenberg_issued: '2025-02-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '75400'
+language: en
+pgterms:marc904: https://babel.hathitrust.org/cgi/pt?id=hvd.hn5ht5&view=1up&seq=7
+pgterms:marc905: 20221124154131forbes
+pgterms:marc906: '1911'
+pgterms:marc907: us
+production_note: Aaron Adrignola, David E. Brown, and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This file was produced from images generously made
+  available by The Internet Archive)
+publication_note: '  $aNew York :$bGrosset & Dunlap, $c1911.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'High school students -- Juvenile fiction'
+- !lcsh 'Teenage boys -- Juvenile fiction'
+- !lcsh 'Baseball stories'
+- !lcc 'PZ'
+- GITenberg
+title: 'The boys of Columbia High on the diamond : $b or, Winning out by pluck'
+url: http://www.gutenberg.org/ebooks/75400
